@@ -1,6 +1,6 @@
 # sparql_tutorial
 
-This is the very fine Jena SPARQL tutorial using Python notebooks, and using the results as Panda's DataFrames.
+This is the Jena SPARQL tutorial updated using Python notebooks and using the results as Panda's DataFrames.
 
 A fairly comprehensive tutorial on using SPARQL in Python, including,
 
