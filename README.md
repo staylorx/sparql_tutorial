@@ -10,6 +10,6 @@ A fairly comprehensive tutorial on using SPARQL in Python, including,
 
 This does need some work in the conjunctive graph space.
 
-At a minimum this needs the packages in requirements:
+At a minimum this needs the packages in requirements.txt:
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
