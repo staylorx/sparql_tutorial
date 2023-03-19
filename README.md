@@ -9,7 +9,3 @@ A fairly comprehensive tutorial on using SPARQL in Python, including,
 - A very good list of FILTER, UNION, GRAPH, etc... which I can take no credit for. This is a copy of the Apache Jena tutorial found here: https://jena.apache.org/tutorials/sparql.html
 
 This does need some work in the conjunctive graph space.
-
-At a minimum this needs the packages in requirements.txt:
-
-`pip install -r requirements.txt`
